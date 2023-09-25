@@ -14,5 +14,8 @@ Questo sito raccoglie alcune fra le più belle passeggiate/escursioni montane de
 ### WARNING:
 I percorsi non sono aggiornati, intraprendeteli a vostro rischio e pericolo.
 
+### CONTRIBUIRE:
+Se volete contribuire al progetto, potete controllare la repo [github](https://github.com/picchidiprestigio/iPicchiDiPrestigio)
+
 ### Contatti:
 Per info o altro contattare: picchidiprestigio (at) gmail (dot) com
