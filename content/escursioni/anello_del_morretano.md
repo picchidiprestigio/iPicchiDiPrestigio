@@ -1,0 +1,41 @@
+---
+title: Anello Del Morretano
+description: "L’escursione proposta permette di percorrere con un bel percorso ad anello le due creste che delimitano la valle di Morretano: quella del Puzzillo, affilata e aerea, a Nord Est e quella de La Torretta, ampia ed erbosa, a Sud Ovest. Si tratta di un percorso lungo ma non faticoso davvero magnifico grazie soprattutto all'ampia varietà degli ambienti attraversati e alla grande differenza tra le due creste percorse. Buona parte dell’itinerario di discesa si svolge in assenza di sentieri e richiede un buon senso dell’orientamento: per tal motivo deve essere evitato in caso di nebbia."
+featured_image: /images_escursioni/anello_del_morretano/salendo_verso_il_puzzillo.jpg
+date: 2023-09-05T11:31:16+02:00
+draft: false
+---
+
+
+## Sintesi
+### Difficoltà: E
+### Ascesa Totale: 1 000 m
+### Quota Massima: 2 174m slm
+### Tempo Totale: 5 ore 30 min
+### Itinerario Segnato: Parzialmente
+### Interessi per i bambini:
+ L’itinerario che non pone difficoltà tecniche di rilievo è piuttosto lungo, ma non faticoso e può, pertanto, essere percorso d qualunque bambino o ragazzo con un minimo di allenamento e di voglia di camminare. L’ampiezza dei panorami e la varietà degli ambienti attraversati lo rendono un itinerario di sicuro successo.
+Anche se teoricamente percorribile nei due sensi, si raccomanda di percorrere l’anello nel senso descritto: se percorso in senso inverso, infatti, la salita a La Torricella, nei prati, risulterebbe molto noiosa e la salita dal passo del Morretano alla vetta del Puzzillo, brutta e faticosa, metterebbe a dura prova il desiderio di montagna di qualunque bambino.
+### Interesse Sportivo: Basso
+L’itinerario non presenta difficoltà tecniche di rilievo, ma alcune formazioni rocciose possono divenire un divertente terreno di gioco per i bambini che amano arrampicarsi. Le difficoltà di reperimento del percorso nella discesa da La Torricella e nell’attraversamento del bosco di Cerasolo possono offrire, invece, una divertente esperienza di orienteering.
+
+### Interesse Paesaggistico: Alto
+Oltre ai panorami incredibilmente ampi che, nelle giornate più limpide, spaziano dai Sibillini alla Maiella, quello che rende il percorso descritto assolutamente eccezionale è l’incredibile diversità tra i vari ambienti attraversati. In particolare salta all’occhio la profonda differenza tra le creste del Puzzillo e de La Torricella; mentre la prima è una cresta affilata, stretta e rocciosa che cattura l’interesse dei bambini per il suo aspetto duro e arido, la seconda è un’ampissima cresta erbosa costituita da un intricato sistema di vallecole e doline che rendono la ricerca del percorso un gioco molto divertente. A completare l’interesse dell’escursione contribuisce notevolmente anche l’attraversamento del bosco di Cerasolo in località Peschiogori nell’ultimo tratto dell’itinerario: si tratta di un bosco dall’aspetto fiabesco del quale va goduto ogni singolo metro.
+
+### Interesse Naturalistico: Medio
+Seppure non frequentissimo, non è raro imbattersi in qualche camoscio o ammirare il volo dei grifoni. Dal punto di vista della flora vanno, invece, segnalate le belle fioriture primaverili e, soprattutto, l’ampia disponibilità di fragole e lamponi nella prima e nell’ultima parte dell’itinerario.
+
+La prima metà dell’itinerario è rappresentata dalla salita al Monte Puzzillo dal valico Le Chiesole: proprio dietro il cartello che indica il Valico inizia il sentiero che raggiunge dapprima il Monte Fratta (1878 m, 30 min) e quindi prosegue, sempre in cresta e senza possibilità di errore, fino alla volta di Monte Cornacchia (2010 m).
+Si supera, quindi, la salita più ripida del percorso per raggiungere l’anticima Nord (2128 m, 2.5 h) e, quindi, con una lunga camminata di cresta la vetta vera e propria del Puzzillo (2174 m, 3 h).
+Dalla vetta si torna indietro di alcune centinaia di metri fino alla piccola sella tra le due cime quasi sulla perpendicolare del sottostante passo del Morretano caratterizzata da tondeggianti formazioni rocciose e dalla presenza di un piccolo ometto.
+Si scende a sinistra per un ripido pendio erboso seguendo tracce di passaggio e alcuni ometti fino a raggiungere il passo del Morretano (1983 m) che rappresenta la testata dell’omonima valle.
+Dal passo si risale il pendio opposto a quello di discesa fino ad intercettare, pochi metri più in alto, l’evidente sentiero che risale obliquando a destra fino a raggiungere la cresta de La Torricella.
+Sulla sinistra è possibile raggiungere, in circa 5 minuti, la Cima di Morretano (2098 m - 10 minuti tra andata e ritorno), sulla destra, invece, si prosegue lungo la cresta fino a raggiungere La Torricella  (2071 m) caratterizzata da un grosso ometto di pietra e una bella vista sul percorso fatto per salire al Monte Puzzillo.
+Per la discesa si prosegue per la cresta a nord della torretta costeggiando le reti che si gettano sulla sottostante valle di Morretano e seguendo de i radi ometti che presto spariscono. Sempre seguendo l’ampia cresta e costeggiando per quanto possibile le pareti, si attraversa, senza alcun sentiero e traccia, una vasta zona caratterizzata da estesi prati e numerose vallecole che, in caso di nebbia, rendono estremamente difficile individuare il percorso.
+A quota 1800 m circa si entra nel bosco di Cerasolo, uno dei più belli del gruppo, in una località (Peschiogori) particolarmente interessante. Qui il percorso si complica ulteriormente ed è necessario avere un ottimo senso dell’orientamento per districarsi nel dedalo di vallecole e doline che rappresenta l’ultima parte dell’itinerario. In linea di massima occorre continuare  seguire il margine superiore delle pareti che precipitano sulla valle di Morretano, ma l’abbassarsi delle pareti, la densità degli alberi e l’intricato caos di massi che costituisce il substrato del bosco rendono l’operazione quanto meno improba: ci si dovrà quindi limitare a seguire di volta in volta le tracce più comode cercando di tenersi il più vicino possibile alla cresta che diviene sempre meno marcata ed evidente.
+Intorno a quota 1650 m, sempre senza sentiero e senza via obbligata, conviene deviare in direzione Nord Est (ormai le pareti sono svanite) e proseguire fino a intercettare la strada sterrata che, seguita a destra, conduce a Prato Agapito, proprio sotto il valico Le Chiesole che si raggiunge con una ultima ripida salita nel bosco o lungo la strada asfaltata.
+
+
+
+## Photo Gallery
+![](/images_escursioni/anello_del_morretano/salendo_verso_il_puzzillo.jpg "Salendo verso il Puzzillo: ")  ![](/images_escursioni/anello_del_morretano/monte_fratta.jpg "Monte Fratta: La cresta del Puzzillo nella zona di Monte Fratta")  ![](/images_escursioni/anello_del_morretano/laga_e_gran_sasso_dal_monte_puzzillo.jpg "Laga e Gran sasso dal Monte Puzzillo: Panorama su Laga e Gran sasso dal Monte Puzzillo")  ![](/images_escursioni/anello_del_morretano/monte_puzzillo.jpg "Monte Puzzillo: Lungo la cresta sommitale del Puzzillo")  ![](/images_escursioni/anello_del_morretano/monte_puzzillo.jpg "Monte Puzzillo: Papà un grifone!")  ![](/images_escursioni/anello_del_morretano/vetta_di_monte_puzzillo.jpg "Vetta di Monte Puzzillo: In vetta a Monte Puzzillo")  ![](/images_escursioni/anello_del_morretano/la_torricella_dalla_cima_del_morretano_.jpg "La Torricella dalla Cima del Morretano : La Torricella vista dalla Cima del Morretano ")  ![](/images_escursioni/anello_del_morretano/la_torricella.jpg "La Torricella: Lungo la cresta tra La Torricella e la Cima del Morretano")  ![](/images_escursioni/anello_del_morretano/monte_murolungo_e_monte_morrone.jpg "Monte Murolungo e Monte Morrone: Monte Murolungo e Monte Morrone visti da La Torricella")  ![](/images_escursioni/anello_del_morretano/la_torricella.jpg "La Torricella: In Vetta a La Torricella. A sinistra il Puzzillo.")  ![](/images_escursioni/anello_del_morretano/la_torricella.jpg "La Torricella: Scendendo da La Torricella")  ![](/images_escursioni/anello_del_morretano/monte_orsello.jpg "Monte Orsello: Monte Orsello fa da sfondo ai prati della cresta sotto La Torricella.")  ![](/images_escursioni/anello_del_morretano/monte_morrone.jpg "Monte Morrone: Attraversando i prati si gode di ampi panorami sul Monte Morrone")  

@@ -1,0 +1,33 @@
+---
+title: Laghetta Da Preta
+description: L’anello di Cima della Laghetta da Preta è un percorso eccezionale sia perché  si svolge in ambiente assolutamente selvaggio sia perché sfrutta le tracce di un’antica cultura della pastorizia che è incredibile pensare sia potuta esistere in un ambiente caratterizzato da una così spiccata verticalità. L’itinerario è grandioso con il panorama che aumenta pian piano facendo apparire lentamente tutte le vette della Laga e i gruppi dell’Appennino Centrale ma, date le sue caratteristiche, è adatto esclusivamente ad escursionisti molto esperti in grado di trovare la strada in assenza di qualunque traccia umana e avvezzi ai passaggi ripidi in ambiente esposto.
+featured_image: /images/main_template_pic.jpg
+date: 2023-09-05T11:31:16+02:00
+draft: false
+---
+
+
+## Sintesi
+### Difficoltà: EE
+### Ascesa Totale: 1 250 m
+### Quota Massima: 2 372m slm
+### Tempo Totale: 7 ore
+### Itinerario Segnato: No
+Il sentiero si svolge integralmente su tracce non segnate e fuori sentiero e richiede un’ottima capacità di orientamento oltre all'abitudine a riconoscere la strada basandosi sulle forme del terreno. Indispensabili carta, bussola e altimetro.
+### Interessi per i bambini:
+ Itinerario assolutamente inadatto a bambini e ragazzi sia per la sua pesantezza al livello fisico sia per l’esposizione di alcuni passaggi.
+Dal parcheggio si segue l’ampio tratturo ormai rimboschito che sale abbastanza deciso per poi piegare a destra e raggiungere il l’orlo del Fosso Malopasso oltre il quale inizia a traversare a sinistra con modesti saliscendi fino a raggiungere il greto del torrente (1450 m slm ca.).
+Attraversato il fosso (potrebbe essere difficoltoso in primavera) si sale nel bosco tenendosi a sinistra, sull’orlo (destra idrografica) dell’impluvio affluente, fino a raggiungere una vecchia carbonara a sinistra della quale parte un evidente sentiero. Seguendo il sentiero si risale con alcuni tornanti (attenzione ad un paio di passaggi scivolosi ed esposti) fino ad uscire dal bosco pochi metri più in basso di una selletta con i resti di uno stazzo che si raggiunge obliquando in salita sulla destra tra l’erba (Stazzo del Fucile; 1775 m slm; 1h 30 min).
+Dalla sella, molto panoramica, è opportuno studiare il percorso da fare in modo di crearsi dei punti di riferimento da raggiungere per trovare il sentiero da seguire. Spalle allo stazzo si supera l’erba che ricopre la sella e si traversa a sinistra per superare il primo fosso leggermente più in basso della sella per raggiungere una traccia in salita sotto alcune roccette che raggiungere il crinale che separa dal fosso successivo. Si continua ad obliquare a sinistra cercando di tenersi alti per raggiungere, dopo un secondo fosso, un comodo sentiero inerbito (abbastanza evidente dallo stazzo del Fucile) che traversa parallelamente agli starti di arenaria e conduce, traversando il pendio a mezza costa, al greto del Fosso Malopasso in un tratto dove il ruscello è pianeggiante, proprio sopra una cascata.
+Attraversato il torrente si seguono tracce di sentiero che salgono in diagonale, superano un primo stretto impluvio (attenzione perché la traccia fornita passa più in alto del sentiero in quanto è stato necessario aggirare un nevaio) , un secondo più ampio e raggiungono, infine, la cresta che separa dalla valle di Ortanza, poco sotto quota 1950 m e poco sopra alcuni evidenti speroni di roccia.
+Da questo punto in poi la via diviene più evidente: si segue, verso destra, la cresta in salita che prosegue sempre ripida e scomoda, ma mai problematica fino a raggiungere La Cipollara (2125 m slm; 1 h 30 min dallo stazzo) dove la pendenza diminuisce. Si prosegue, sempre in cresta, superando delle interessanti formazioni rocciose  e, dopo un ultimo tratto ripido si raggiunge la vetta Nord della Laghetta (2372 m slm; 40 min dal punto di arrivo alla cresta).
+Dalla vetta si piega a destra seguendo la cresta dello spartiacque principale, si scende ad una sella e si risale fino a raggiungere la vetta centrale della Laghetta (2369 m slm; 25 min dalla vetta Nord).
+Si prosegue sempre in cresta si scende ad una seconda sella ben più marcata della precedente e si risale fino alla vetta senza nome di quota 2268 m slm (35 min dalla vetta centrale). Da questa vetta la cresta principale piega a sinistra per raggiungere la vetta Sud della Laghetta, mentre sulla destra scende ripido un costone secondario che va percorso fino a quota 2000 m slm ca. A questa quota la cresta si allarga e si biforca in due costoni separati da un modesto impluvio, sede di un nevaio fino a stagione inoltrata: senza poter seguire alcun sentiero o traccia, occorre spostarsi sulla dorsale di sinistra e percorrerla fino ai resti di uno stazzo (1860 m slm; 50 min dalla cima senza nome).
+Dallo stazzo, in caso di necessità, è possibile raggiungere una fonte a 200 m ca. seguendo i terrazzamenti e le tracce di sentiero a sinistra. Per proseguire nella discesa, invece, si scende a destra obliquando fino a raggiungere un evidente sentiero che costeggia l’inizio del bosco e, dopo pochi metri, vi si inoltra scendendo con alcuni tornanti.
+Raggiunta una radura in pendenza, si scende fin quasi al punto più basso per ritrovare il sentiero che ricomincia, sulla sinistra, nel bosco (ignorare il sentiero basso a destra). Si segue il sentiero, sempre piuttosto evidente, fino a raggiungere una seconda radura dove scompare. Ignorando le tracce che piegano sinistra si segue la cresta, si rientra nel bosco  e si raggiunge un’ulteriore radura dove si scende direttamente fino ad intercettare un sentiero ben marcato al limitare del bosco che si segue verso sinistra.
+Il sentiero, a questo punto, pur rimanendo sempre evidente, attraversa una zona incolta dove rovi e biancospini rendono molto complicato il passaggio. Cercando la via meno scomoda si scende obliquando fino a quando non si vedono, in basso, degli ampi prati che si raggiungono sempre cercando la via tra la vegetazione.
+Raggiunti i prati pianeggianti si piega a sinistra e si raggiunge il limitare del bosco poco oltre il quale si incontra una modesta sorgente (acqua da bere non disponibile). Si cammina, quindi, in discesa seguendo lo scolo dell’acqua della fonte e, quando questa termina, si prosegue in discesa sempre nella stessa direzione fino ad intercettare un ampio sentiero (Sentiero Italia) che si segue a destra.
+Con alcuni saliscendi si raggiunge e si supera la captazione ENEL del fosso dei carbonari e, in corrispondenza del fosso Malopasso si raggiunge una strada sterrata seguendo la quale, in breve, si raggiunge il punto di partenza dell’escursione (1 h 30 min dallo stazzo).
+
+
+

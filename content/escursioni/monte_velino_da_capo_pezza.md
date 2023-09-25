@@ -1,0 +1,38 @@
+---
+title: Monte Velino Da Capo Pezza
+description: La salita al Velino dai Piani di Pezza è un’escursione varia e remunerativa che attraversa il cuore del gruppo Velino/Sirente. Si tratta di un’escursione facile, ma decisamente lunga e piuttosto faticosa che regala agli escursionisti alcuni tra i panorami più belli dell’Appennino e durante la quale è normale osservare l’elegante volo dei grifoni.
+featured_image: /images_escursioni/monte_velino_da_capo_pezza/colle_dell'orso.jpg
+date: 2023-09-05T11:31:16+02:00
+draft: false
+---
+
+
+## Sintesi
+### Difficoltà: EE
+### Ascesa Totale: 1 550 m
+### Quota Massima: 2 486m slm
+### Tempo di Andata: 5 ore
+### Tempo di Ritorno: 4 ore
+### Itinerario Segnato: Si
+### Interessi per i bambini:
+ L’itinerario è semplice e bello ricco di spunti di interesse per un bambino. Tuttavia si tratta di un’escursione piuttosto lunga e faticosa che pochi bambini sono in grado di affrontare. La lontananza del Velino che appare evidente dal Colle dell’Orso e la grande discesa necessaria per raggiungere il Bicchero da Punta Trento, inoltre, sono in grado di scoraggiare anche il più entusiasta dei bambini. Si raccomanda, quindi, di affrontare questa escursione solo con bambini molto allenati e motivati oppure di percorrerlo in due giorni pernottando al rifugio Sebastiani: il primo giorno si raggiunge il rifugio per questo itinerario; il secondo si raggiunge il Colle dell’Orso (ca. 30 min dal rifugio) e si prosegue per l’itinerario qui descritto. Con questa opzione, oltre a spezzare in due un’escursione altrimenti troppo lunga per i bambini, si aggiunge il fascino del pernottamento al rifugio in grado, da solo, di motivare qualunque bambino.
+### Interesse Paesaggistico: Alto
+L’itinerario attraversa alcune delle zone più belle e selvagge del gruppo. Il panorama sul Velino dal colle dell’Orso, inoltre, entusiasmer�? (e demotiver�?, data la distanza) qualunque bambino così come lo splendido anfiteatro sommitale. Meno affascinanti, agli occhi di un bambino gli splendidi panorami che si godono dalle due vette più alte.
+
+### Interesse Naturalistico: Medio
+Oltre alle splendide fioriture, il frequente avvistamento dei grifoni è la maggior attrattiva da un punto di vista naturalistico.
+
+Da Capo Pezza (1535 m) si segue il sentiero ben segnato che sale a destra nel bosco. Si prosegue senza possibilit�? d’errore fino al limite dei boschi per sbucare sui prati della Valle Cerchiata a quota 1790 ca.Si prosegue brevemente sui prati fino ad un bivio dove si prosegue dritti, ignorando il sentiero a destra per il Rifugio Sebastiani.
+Si risale l’ampia vallata seguendo il comodo e ben visibile sentiero che, con alcuni saliscendi, raggiunge la base delle pareti di una spalla sotto Colle dell’Orso, piega a destra per aggirarle e risale fino all’erbosa sommit�? della spalla su uno scomodo ma breve ghiaione.
+Si ignora l’evidente sentiero a mezza costa che conduce al rifugio Sebastiani, e si imbocca quello più alto che risale tagliando il pendio fino a raggiungere il Colle dell’Orso (2175 m slm; 2 h da Capo Pezza).
+Raggiunta la cresta si piega a sinistra su un comodo sentiero fino a raggiungere un bivio poco sotto Punta Trento. Si segue il sentiero in discesa che, superati un paio di fossi precipita, per circa 130 m, lungo ripidi prati fino a raggiungere Colle del Bicchero, la sella che rappresenta la testata della valle di Teve da un lato e della val Maiellama dall’altro (2070 m slm; 45 min da Colle dell’Orso).
+Ignorando il sentiero che scende a destra verso la valle di Teve, si risale con alcuni brevi tornati fino a raggiungere una panoramica cresta e, piegando a sinistra, la vetta di Monte il Bicchero (2161 m slm; 15 min dal colle omonimo).
+Lungo un evidente sentiero, si scende dal Bicchero sul lato opposto a quello di arrivo e si risale l’ampio crinale erboso fino a raggiungere un ripido ghiaione in cima al quale si raggiunge la cresta che collega Monte Cafornia alla Cimata Fossa dei Cavalli.
+Si piega a destra, tenendosi sulla sinistra della cresta, fino a raggiungere un’ampia sella sulla cui sinistra è ben visibile la vetta del Cafornia che si raggiunge con una ripida ma breve salita (2424 m slm; 1 h 30 min dal Bicchero).
+Una volta riscesi alla sella sotto il Cafornia si imbocca il sentiero di sinistra che, con alcuni saliscendi, percorre l’ampio anfiteatro tra il Cafornia e il Velino fino a raggiungere il sentiero che risale dalla capanna di Sevice. Dal bivio si risale per ghiaioni e sfasciumi fino alla vetta del Velino dove è una grossa croce (2486 m slm; 30 min dal Cafornia).
+La discesa per lo stesso itinerario richiede ca. 4 ore.
+
+
+
+## Photo Gallery
+![](/images_escursioni/monte_velino_da_capo_pezza/colle_dell'orso.jpg "Colle dell'Orso: La salita verso Colle dell'Orso (visibile sullo sfondo).")  ![](/images_escursioni/monte_velino_da_capo_pezza/colle_dell'orso.jpg "Colle dell'Orso: La salita verso Colle dell'Orso. Sullo sfondo Cimata di Pezza.")  ![](/images_escursioni/monte_velino_da_capo_pezza/colle_dell'orso.jpg "Colle dell'Orso: La salita verso Colle dell'Orso.")  ![](/images_escursioni/monte_velino_da_capo_pezza/colle_dell'orso.jpg "Colle dell'Orso: Uno sguardo indietro dalla salita a Colle dell'Orso verso i Piani di Pezza.")  ![](/images_escursioni/monte_velino_da_capo_pezza/colle_dell'orso.jpg "Colle dell'Orso: Verso la conclusione della salita verso Colle dell'Orso.")  ![](/images_escursioni/monte_velino_da_capo_pezza/colle_dell'orso.jpg "Colle dell'Orso: I piani di Pezza visti da Colle dell'Orso.")  ![](/images_escursioni/monte_velino_da_capo_pezza/piani_di_pezza.jpg "Piani di Pezza: I Piani di Pezza visti da Colle dell'Orso.")  ![](/images_escursioni/monte_velino_da_capo_pezza/monte_velino.jpg "Monte Velino: Monte Velino visto da Colle dell'Orso.")  ![](/images_escursioni/monte_velino_da_capo_pezza/monti_murolungo_e_morrone.jpg "Monti Murolungo e Morrone: Verso Punta Trento. Sullo sfondo i monti Murolungo (a sinistra) e il Morrone (al centro).")  ![](/images_escursioni/monte_velino_da_capo_pezza/val_di_teve.jpg "Val di Teve: La val di Teve vista dal Colle del Bicchero.")  ![](/images_escursioni/monte_velino_da_capo_pezza/monte_cafornia.jpg "Monte Cafornia: In vetta a Monte Cafornia.")  ![](/images_escursioni/monte_velino_da_capo_pezza/monte_velino.jpg "Monte Velino: Verso il Velino.")  ![](/images_escursioni/monte_velino_da_capo_pezza/monte_velino.jpg "Monte Velino: Lungo la cresta che collega il Cafornia al Velino.")  ![](/images_escursioni/monte_velino_da_capo_pezza/monte_cafornia.jpg "Monte Cafornia: Lungo la cresta che collega il Cafornia (sullo sfondo) al Velino.")  ![](/images_escursioni/monte_velino_da_capo_pezza/monte_velino.jpg "Monte Velino: La salita finale per la vetta del Velino.")  ![](/images_escursioni/monte_velino_da_capo_pezza/cima_avezzano.jpg "Cima Avezzano: Di ritorno dal Velino, verso il Cafornia. Sullo sfondo Cima Avezzano.")  ![](/images_escursioni/monte_velino_da_capo_pezza/monte_velino.jpg "Monte Velino: Di ritorno dal Velino (sullo sfondo), verso il Cafornia.")  ![](/images_escursioni/monte_velino_da_capo_pezza/monte_cafornia.jpg "Monte Cafornia: La discesa dal Cafornia.")  ![](/images_escursioni/monte_velino_da_capo_pezza/monte_cafornia.jpg "Monte Cafornia: La discesa dal Cafornia.")  ![](/images_escursioni/monte_velino_da_capo_pezza/monte_velino.jpg "Monte Velino: Il Velino visto dal Bicchero.")  ![](/images_escursioni/monte_velino_da_capo_pezza/colle_del_bicchero.jpg "Colle del Bicchero: La risalita verso Punta Trento dal Colle del Bicchero.")  ![](/images_escursioni/monte_velino_da_capo_pezza/cimata_di_pezza.jpg "Cimata di Pezza: In discesa verso Capo Pezza. Sullo sfondo la Cimata di Pezza.")  
