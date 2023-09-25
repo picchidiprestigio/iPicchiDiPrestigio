@@ -2,6 +2,7 @@
 languageCode = 'it'
 title = 'Picchi Di Prestigio'
 theme="gohugo-theme-ananke"
+canonifyURLs = true
 
 SectionPagesMenu = "main"
 
